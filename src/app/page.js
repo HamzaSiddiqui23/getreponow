@@ -42,7 +42,7 @@ export default function Home() {
         <span className="text-black text-center text-xl md:text-3xl font-semibold px-6">Challenges of Managing Your Online Reputation</span>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-y-6 gap-x-12 py-8 md:py-16 px-6 md:px-32">
           <div className="flex flex-col space-y-4 bg-actions p-6 rounded-2xl">
-            <Image className="w-12" src="/fall.png" alt="" width={500} height={500}/>
+            <Image className="w-12" src="/fall.png" alt="Down" width={500} height={500}/>
             <span className="text-xl font-semibold">Lost Revenue</span>
             <span className="text-base font-medium text-wrap">Negative reivews can drive potential customers away</span>
           </div>
